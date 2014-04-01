@@ -1,9 +1,6 @@
 function test_git_hub()
 {
-//blank
-
-
-//more new
+alert("Hello World")
 
 
 }
